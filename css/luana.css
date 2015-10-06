@@ -1,0 +1,385 @@
+ @font-face {
+    font-family: 'armalite_rifleregular';
+    src: url('../fonts/armalite_rifle-webfont.eot');
+    src: url('../fonts/armalite_rifle-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/armalite_rifle-webfont.woff') format('woff'),
+         url('../fonts/armalite_rifle-webfont.ttf') format('truetype'),
+         url('../fonts/armalite_rifle-webfont.svg#armalite_rifleregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+ }
+
+.genBotonOpcion{
+    background: #E3E3F7 none repeat scroll 0 0;
+    border: 1px solid #337ab7;
+    border-radius: 7px;
+    display: inline-block;
+    text-align: center;
+    padding: 3px 6px;        
+}
+.modal-header{
+    padding: 6px 18px;
+    background-color: #2e6da4;
+    color: white;
+}
+.fixed-formulario .form-group{
+    margin-bottom: 5px!important;
+    background-color: #F7F7F7;
+}
+.fixed-formulario .form-group input{
+    height: 25px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+.fixed-formulario .form-group input[type='checkbox']{
+    height: 10px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+.fixed-formulario .form-group select{
+    height: 30px;
+}
+.fixed-formulario .form-group .form-horizontal .control-label{
+    padding-top:5px;
+}
+#dataTables-example > thead {
+    background-color: white;
+}
+.table-striped > tbody > tr:nth-of-type(2n) {
+    background-color: white;
+}
+.botoneraLista{
+    width: 108px;
+}
+#formcreatePro #total {
+    display: inline-block;
+    margin-top: 7px;
+}
+#formcreatePro input{
+    background-color: #dfffe7;
+    font-size:12px;
+    padding-bottom: 4px;
+}
+#formEditPro input{
+    background-color: #dfffe7;
+    font-size:12px;
+    padding-bottom: 4px;
+}
+#formEditPro #totalE {
+    display: inline-block;
+    margin-top: 7px;
+}
+
+
+/*---------------------------*/
+/*---------------------------*/
+/*VALIDACION CREAR PRODUCCION*/
+/*---------------------------*/
+/*---------------------------*/
+#formcreatePro input.error{
+    background-color: #FFD2D2;
+    border: 1px solid red;    
+}
+#formcreatePro label.error{
+    color: red;
+    font-size: 12px;
+    margin-top: 
+}
+/*---------------------------*/
+/*---------------------------*/
+/*VALIDACION EDITAR PRODUCCION*/
+/*---------------------------*/
+/*---------------------------*/
+#formEditPro input.error{
+    background-color: #FFD2D2;
+    border: 1px solid red;    
+}
+#formEditPro label.error{
+    color: red;
+    font-size: 12px;
+    margin-top: 
+}
+
+/*---------------------------*/
+/*---------------------------*/
+/*VALIDACION CREAR CLIENTE*/
+/*---------------------------*/
+/*---------------------------*/
+#formCliente input.error{
+    background-color: #FFD2D2;
+    border: 1px solid red;    
+}
+#formCliente label.error{
+    color: red;
+    font-size: 12px;
+    margin-top: 
+}
+
+#formCliente .panel-labelH label.error{
+    display: none!important;
+}
+
+/*---------------------------*/
+/*---------------------------*/
+/*VALIDACION EDITAR CLIENTE*/
+/*---------------------------*/
+/*---------------------------*/
+#formClienteEdit input.error{
+    background-color: #FFD2D2;
+    border: 1px solid red;    
+}
+#formClienteEdit label.error{
+    color: red;
+    font-size: 12px;
+    margin-top: 
+}
+
+#formClienteEdit .panel-labelH label.error{
+    display: none!important;
+}
+
+/*---------------------------*/
+/*---------------------------*/
+/*VALIDACION REALIZAR PAGO*/
+/*---------------------------*/
+/*---------------------------*/
+#formClientePago input.error{
+    background-color: #FFD2D2;
+    border: 1px solid red;    
+}
+#formClientePago label.error{
+    color: red;
+    font-size: 12px;
+    margin-top: 
+}
+
+#formClientePago .gruLabelCampo label.error{
+    display: none!important;
+}
+
+/*---------------------------*/
+/*---------------------------*/
+/*VALIDACION REALIZAR PAGO*/
+/*---------------------------*/
+/*---------------------------*/
+#costoPrendaEditar input.error{
+    background-color: #FFD2D2;
+    border: 1px solid red;    
+}
+#costoPrendaEditar label.error{
+    color: red;
+    font-size: 12px;
+    display: none!important;
+}/*---------------------------*/
+/*---------------------------*/
+/*VALIDACION REALIZAR PAGO*/
+/*---------------------------*/
+/*---------------------------*/
+#formOjalCortesia input.error{
+    background-color: #FFD2D2;
+    border: 1px solid red;    
+}
+#formOjalCortesia label.error{
+    color: red;
+    font-size: 12px;
+    display: none!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*ARREGLAR EL TEMPLATE*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+.titulo-principal{
+    font-family: 'armalite_rifleregular';
+    color:black!important;
+    font-size: 45px;
+    letter-spacing: 4px;
+    font-style: italic;
+    /*text-decoration: underline;*/
+    /*text-decoration: overline;*/
+    /*margin-top: 20px;   */
+    padding: 0 !important;
+    text-shadow: 1px 3px 4px white;
+}
+.titulo-principal img{
+    height: 100px;
+    display:inline!important;
+    margin-left:15px;
+}
+.nuevo{
+background-color: #007fad;
+background-image: url("../img/45-degree-fabric-dark.png");
+color: white;
+margin-bottom: 0;
+height: 100px;
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.nav > li > a{
+
+background-color: #f8f8f8;
+background-image: url("../img/cross-scratches.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+#page-wrapper{
+    /*background-color: #fffcfc;*/
+    /*
+background-image: url("http://www.transparenttextures.com/patterns/cubes.png");*/
+/*background-color: #fffcfc;*/
+/*background-image: url("http://www.transparenttextures.com/patterns/diagonal-striped-brick.png");*/
+background-color: #fffcfc;
+background-image: url("../img/noise-pattern-with-subtle-cross-lines.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.sidebar{
+    margin-top: 100px!important;
+}
+.fixBtnwid{
+    margin-top:23px;
+}
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+#wrapper{
+    background-color: #f8f8f8;
+background-image: url("../img/brick-wall-dark.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.sidebar-search{
+    background-color: #f8f8f8!important;
+    background-image: url("../img/brick-wall-dark.png")!important;
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.nav > li > a:focus, .nav > li > a:hover {
+    background-color: #2e6da4;
+    text-decoration: none;
+    color: white;
+    /*color: black;*/
+    
+}
+.sidebar ul li a.active{
+    background-color: #f8f8f8;
+    background-image: url("../img/45-degree-fabric-dark.png");    
+    color:black;
+    border-right: 5px solid #383838;
+    border-top: 1px solid #383838;
+    border-bottom: 1px solid #383838;    
+}
+
+.bodyLogin{    
+    background-image: url("../img/45-degree-fabric-dark.png")!important;    
+    background-color: #337AB7;
+}
+
+
+/*PARA EL TAB*/
+.tabFormLavado {
+    background: #46a886 none repeat scroll 0 0!important;
+    /*border-bottom: 1px solid grey!important;*/
+    color: white!important;
+    font-weight: bold!important;
+}
+.tabFormLavado2 {
+    background: #eab162 none repeat scroll 0 0!important;
+    color: white!important;
+    font-weight: bold!important;
+}
+
+.tabContentFormLavado{
+    background-color: #46a886;
+    padding-top: 15px;
+}
+.tabContentFormLavado2{
+    background-color: #eab162;
+    padding-top: 15px;
+}
+
+
+/*FIXEA EL MENU PARA QUE SEA FIJO*/
+#wrapper > .navbar.navbar-default.navbar-static-top.nuevo{
+    position: fixed!important;
+    width: 100%!important;
+}
+#page-wrapper{
+    padding-top: 90px!important;
+}
+
+
+.scrollToTop{
+    width:115px; 
+    height:130px;
+    padding:10px; 
+    text-align:center; 
+    background: whiteSmoke;
+    font-weight: bold;
+    color: #444;
+    text-decoration: none;
+    position:fixed;
+    top:350px;
+    right:10px;
+    display:none;
+    background: url('../img/arrow_up.png') no-repeat 0px 20px;
+}
+.scrollToTop:hover{
+    text-decoration:none;
+}
+
+#formSalidaPro .form-group .col-sm-8 > span{
+    padding-top: 8px!important;    
+    display: block;
+}
+
+.textSalida{
+    font-size: 10px;
+    color: green;
+}
