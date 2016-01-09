@@ -81,10 +81,10 @@ Las siguientes imágenes son de capturas de pantalla. Estas vistas pueden cambia
 
 <img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452305417/luana_editar_costos_atributos_f1ocfi.jpg" />
 
-10.- Lista de tipos de lavados.
+16.- Lista de tipos de lavados.
 
 <img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452305075/luana_lista_lavados_cntfsa.jpg" />
 
-11.- Lista de tipos de aplicaciones.
+17.- Lista de tipos de aplicaciones.
 
 <img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452305328/luana_lista_aplicaciones_c4fx4e.jpg" />
