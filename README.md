@@ -23,40 +23,68 @@ Las siguientes imágenes son de capturas de pantalla. Estas vistas pueden cambia
 
 1.- Inicio de sesión.
 
-<img src="" />
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452302163/luana_login_tegwli.jpg" />
 
-2.- Lista de comerciantes.
+2.- Pantalla de Inicio.
 
-<img src="" />
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452302358/luana_inicio_lttzol.jpg" />
 
-3.- Datos de un comerciante.
+3.- Lista de producción (Lista de aplicaciones y lavados realizados a jeans).
 
-<img src="" />
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452302519/luana_lista_produccion_xel6uh.jpg" />
 
-4.- Editar datos de un comerciante.
+4.- Creaccion de boleta de produccion (Formulario para crear un lote de lavado con aplicaciones y tipos de lavado).
 
-<img src="" />
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452302656/luana_nueva_produccion_fy3mas.jpg" />
 
-5.- Exportar datos a excel.
+5.- Edición de boleta de produccion (Formulario para editar un lote de lavado con aplicaciones y tipos de lavado).
 
-<img src="" />
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452302800/luana_editar_produccion_tdajfe.jpg" />
 
-6.- Lista de kardex.
+6.- Vista de boleta de produccion (Vista un lote de lavado con aplicaciones y tipos de lavado).
 
-<img src="" />
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452302928/luana_ver_produccion_qpxogy.jpg" />
 
-7.- Ver kardex.
+7.- Lista de kardez de produccion.
 
-<img src="" />
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452303302/luana_kardex_fjaq3y.jpg" />
 
-8.- Editar kardex.
+8.- Vista del kardex de un cliente por mes.
 
-<img src="" />
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452303526/luana_kardex_por_mes_br5tkg.jpg" />
 
-9.- Lista de usuarios.
+9.- Vista para poder escojer por meses el kardex del cliente.
 
-<img src="" />
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452303693/luana_lista_por_mes_swz0gx.jpg" />
 
-10.- Lista rubros.
+10.- Vista de una boleta para pagos parciales o totales.
 
-<img src="" />
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452303982/luana_boleta_pagos_pgrc8y.jpg" />
+
+11.- Lista de usuarios segun sus cuentas.
+
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452304247/luana_lista_usuarios_cuentas_sphn4q.jpg" />
+
+12.- Estado de cuentas por cobrar de un cliente.
+
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452305502/luana_estado_de_cuentas__feubft.jpg" />
+
+13.- Creacion de un cliente nuevo.
+
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452304566/luana_creacion_cliente_jggecq.jpg" />
+
+14.- Lista de clientes segun sus caracteristicas y costos para cada aplicacion y lavado.
+
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452304705/luana_lista_clientes_caracteristicas_ejnfkh.jpg" />
+
+15.- Editar los datos del cliente, caracteristicas de costos de aplicaciones y lavados segun sus tipos.
+
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452305417/luana_editar_costos_atributos_f1ocfi.jpg" />
+
+10.- Lista de tipos de lavados.
+
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452305075/luana_lista_lavados_cntfsa.jpg" />
+
+11.- Lista de tipos de aplicaciones.
+
+<img src="http://res.cloudinary.com/daid2fusr/image/upload/v1452305328/luana_lista_aplicaciones_c4fx4e.jpg" />
