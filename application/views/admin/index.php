@@ -29,7 +29,7 @@
                                 </div>
                                 <div class="col-xs-9 text-right">
                                     <div class="huge">26</div>
-                                    <div>Produccion Diaria</div>
+                                    <div>Producción Diaria</div>
                                 </div>
                             </div>
                         </div>

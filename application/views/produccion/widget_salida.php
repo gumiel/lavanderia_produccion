@@ -5,7 +5,7 @@
                     <div class="modal-content">
                       <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" style="color: white;">&times;</span></button>
-                        <h4 class="modal-title" id="myModalLabel">Ver Boleta de Produccion</h4>
+                        <h4 class="modal-title" id="myModalLabel">Ver Boleta de Producción</h4>
                       </div>
                       <form id="formSalidaPro" name="formSalidaPro" class="form-horizontal fixed-formulario" action="<?php echo site_url('produccion/editarSalidaProduccion'); ?>" method="POST">
                         <div class="modal-body">
@@ -34,7 +34,7 @@
                                   </div>
                               </div> 
                               <div class="form-group">
-                                  <label for="codigo_disenoS" class="col-sm-4 control-label">Codigo Diseño</label>
+                                  <label for="codigo_disenoS" class="col-sm-4 control-label">Código Diseño</label>
                                   <div class="col-sm-8">
                                     <span id="codigo_disenoS"></span>
                                   </div>

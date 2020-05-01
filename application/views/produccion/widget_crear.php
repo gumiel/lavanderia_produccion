@@ -5,7 +5,7 @@
                     <div class="modal-content">
                       <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" style="color: white;">&times;</span></button>
-                        <h4 class="modal-title" id="myModalLabel">Nueva Boleta de Produccion</h4>
+                        <h4 class="modal-title" id="myModalLabel">Nueva Boleta de Producción</h4>
                       </div>
                       <form id="formcreatePro" name="formProduccion" class="form-horizontal fixed-formulario" action="<?php echo site_url('produccion/crearProduccion'); ?>" method="POST">
                         <div class="modal-body" style="background-color: #F7F7F7!important">
@@ -41,7 +41,7 @@
                                   </div>
                               </div> 
                               <div class="form-group">
-                                  <label for="codigo_diseno" class="col-sm-4 control-label">Codigo Diseño</label>
+                                  <label for="codigo_diseno" class="col-sm-4 control-label">Código Diseño</label>
                                   <div class="col-sm-8">
                                     <input type="text" class="form-control" id="codigo_diseno" name="codigo_diseno" placeholder="Ejm. 122-0258-15">
                                   </div>

@@ -21,7 +21,7 @@
                 </div>
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                        <h3><b>Codigo:</b> <?php echo 'COD-'.$cliente->id_clientes; ?></h3>
+                        <h3><b>Código:</b> <?php echo 'COD-'.$cliente->id_clientes; ?></h3>
                         <h3><b>Nombre y Apellido:</b> <?php echo $cliente->nombres.' '.$cliente->apellidos ?></h3>
                     </div>
                 </div>                

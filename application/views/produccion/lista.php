@@ -15,7 +15,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1 class="page-header">Produccion</h1>
+                        <h1 class="page-header">Producción</h1>
                             <?php if ($this->session->flashdata('msgErrorProduccion')): ?>                            
                                 <div class="alert alert-danger alert-dismissable">
                                     <button aria-hidden="true" data-dismiss="alert" class="close" type="button">×</button>
@@ -42,11 +42,11 @@
                     <div class="col-lg-12 col-md-12">
                         <div>
                             <p>                                
-                                <button type="button" class="btn btn-primary btn-lg" id="modalCrear">Nueva Boleta Produccion</button>
+                                <button type="button" class="btn btn-primary btn-lg" id="modalCrear">Nueva Boleta Producción</button>
                             </p>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading">Lista de Produccion</div>
+                            <div class="panel-heading">Lista de Producción</div>
                             <div class="panel-body">
                                 <div class="dataTable_wrapper">
                                     <table class="table table-striped table-bordered table-hover" id="dataTables-example" width="1000px">
@@ -56,7 +56,7 @@
                                                 <th>Orden de Lavado</th>
                                                 <th>Orden Trabajo</th>
                                                 <th>Tipo</th>
-                                                <th>Codigo Diseño</th>
+                                                <th>Código Diseño</th>
                                                 <th>Cliente</th>
                                                 <th>Cantidad</th>
                                                 <th>Prenda</th>

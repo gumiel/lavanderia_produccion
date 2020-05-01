@@ -8,7 +8,7 @@
                 <a class ="navbar-brand titulo-principal" href="index.html" >
                     <img src="<?php echo base_url().'img/logo1.png'; ?>" >
                     <!-- <img src="<?php echo base_url().'img/logo2.png'; ?>" style="height: 60px;display:inline;"> -->
-                    Lavanderia LUANA
+                    Lavanderia
                 </a>
             </div>
             <a href="#" class="scrollToTop">Subir Scroll</a>

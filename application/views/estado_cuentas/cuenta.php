@@ -16,7 +16,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="page-header">ESTADO DE CUENTAS POR COBRAR</h1>
-                        <h4><b>Gestion:</b> <?php echo $gestion ?></h4>
+                        <h4><b>Gestión:</b> <?php echo $gestion ?></h4>
                         <h4><b>Cliente:</b> <?php echo $cliente->nombres.' '.$cliente->apellidos; ?></h4>
                     </div>
                     <!-- /.col-lg-12 -->
@@ -49,7 +49,7 @@
                                                 $totalPrendas   = 0;
                                             ?>
                                              <tr class="odd gradeX" style="background-color:#FFF6DD;text-decoration: underline">
-                                                <td><strong>Gestion <?php echo (int)$gestion-1; ?></strong></td>
+                                                <td><strong>Gestión <?php echo (int)$gestion-1; ?></strong></td>
                                                 <td>saldo deuda gestion anterior</td>
                                                 <td></td>                                                    
                                                 <td><?php echo $totalAdeudado; ?></td>

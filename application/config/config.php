@@ -17,8 +17,8 @@
 |
 */
 $config['base_url'] = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == "on") ? "https" : "http");
-$config['base_url'] .= "://".$_SERVER['SERVER_NAME']."/luana/";
-// $config['base_url'] = 'http://localhost/luana/';
+$config['base_url'] .= "://".$_SERVER['SERVER_NAME']."/lavanderia_produccion/";
+// $config['base_url'] = 'http://localhost/lavanderia_produccion/';
 
 /*
 |--------------------------------------------------------------------------

@@ -75,7 +75,7 @@
                                         <div class="col-lg-5">
                                             <div class="panel panel-green panel-labelH">
                                                 <div class="panel-heading">
-                                                    Configuracion del Cliente
+                                                    Configuración del Cliente
                                                 </div>
                                                 <div class="panel-body">
                                                     <div class="form-group">

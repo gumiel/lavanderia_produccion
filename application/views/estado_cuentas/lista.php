@@ -48,7 +48,7 @@
                                                           <ul class="dropdown-menu">                                                            
                                                             <?php if ($cliente->gestiones): ?>                                                                
                                                                 <?php foreach ($cliente->gestiones as $ges): ?>
-                                                                    <li><a href="<?php echo site_url('estado_cuentas/cuenta/'.$cliente->id_clientes.'/'.$ges->anio) ?>">Gestion <?php echo $ges->anio ?></a></li>                                                                
+                                                                    <li><a href="<?php echo site_url('estado_cuentas/cuenta/'.$cliente->id_clientes.'/'.$ges->anio) ?>">Gestión <?php echo $ges->anio ?></a></li>                                                                
                                                                 <?php endforeach ?>
                                                             <?php else: ?>
                                                                 <li style="background: #F6C2C2;font-size: 12px;padding: 7px;"><div>NO EXISTE GESTIONES PARA ESTE CLIENTE</div></li>

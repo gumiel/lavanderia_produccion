@@ -34,7 +34,7 @@
                 <div class="row">
                     <div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
                         <h3><b>Mes:</b> <?php echo (isset($mes))? $mes.' del '.$anio : ''; ?></h3>
-                        <h3><b>Codigo:</b> <?php echo 'COD-'.$cliente->id_clientes; ?></h3>
+                        <h3><b>Código:</b> <?php echo 'COD-'.$cliente->id_clientes; ?></h3>
                         <h3><b>Nombre y Apellido:</b> <?php echo $cliente->nombres.' '.$cliente->apellidos ?></h3>
                     </div>
                     <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
@@ -45,7 +45,7 @@
                 <div class="row">
                     <div class="col-lg-12 col-md-12">                        
                         <div class="panel panel-default">
-                            <div class="panel-heading">Produccion</div>
+                            <div class="panel-heading">Producción</div>
                             <div class="panel-body">
                                 <div class="dataTable_wrapper">
                                     <table class="table table-striped table-bordered table-hover" id="dataTables-example" style="font-size:12px">

@@ -10,7 +10,7 @@
                             <a href="<?php echo site_url('administracion') ?>" ><i class="fa fa-dashboard fa-fw"></i> Panel de Control</a>
                         </li>
                         <li>
-                            <a href="<?php echo site_url('produccion/lista'); ?>"><i class="fa fa-cog  fa-fw"></i> Produccion</a>
+                            <a href="<?php echo site_url('produccion/lista'); ?>"><i class="fa fa-cog  fa-fw"></i> Producción</a>
                         </li>                        
                         <li>
                             <a href="<?php echo site_url('kardex/listaClientes') ?>"><i class="fa fa-folder-open fa-fw"></i> Kardex de Control Fisico - Valorado</a>
@@ -38,7 +38,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-gears fa-fw"></i> Configuracion<span class="fa arrow"></span></a>
+                            <a href="#"><i class="fa fa-gears fa-fw"></i> Configuración<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
                                     <a href="<?php echo site_url('usuarios/editar') ?>">Perfil de Administrador</a>
